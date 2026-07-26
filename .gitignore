@@ -1,0 +1,49 @@
+# ==========================
+# Vivado Generated Files
+# ==========================
+
+# Project generated directories
+*.cache/
+*.gen/
+*.hw/
+*.ip_user_files/
+*.runs/
+*.sim/
+*.tmp/
+.Xil/
+
+# Logs
+*.jou
+*.log
+*.str
+
+# Reports
+*.rpt
+
+# Checkpoints
+*.dcp
+
+# Simulation database
+*.pb
+*.wdb
+*.vcd
+
+# Bitstream / Programming files
+*.bit
+*.bin
+*.mcs
+
+# Backup files
+*.bak
+*.backup.*
+
+# State machine viewer
+*.stm/
+
+# Editor
+.vscode/
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
